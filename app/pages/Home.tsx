@@ -7,8 +7,10 @@ export function Home() {
     <div className="min-h-screen flex flex-col bg-background text-foreground">
       <Hero />
       
-      <main className="flex-1 flex items-center justify-center py-16 px-4">
-        <PasswordChecker />
+      <main className="flex-1 py-12 px-4">
+        <div className="max-w-4xl mx-auto">
+          <PasswordChecker />
+        </div>
       </main>
       
       <Footer />

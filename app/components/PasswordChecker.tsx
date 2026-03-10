@@ -156,7 +156,7 @@ export function PasswordChecker() {
   };
 
   return (
-    <Card className="w-full max-w-2xl p-8 space-y-6 shadow-lg">
+    <Card className="w-full max-w-4xl p-8 space-y-6 shadow-lg">
       <div className="space-y-2">
         <h2 className="text-3xl font-bold">Password Strength Checker</h2>
         <p className="text-gray-600">

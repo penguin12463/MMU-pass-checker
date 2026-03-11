@@ -66,8 +66,8 @@ export function Contact() {
                 <div>
                   <h3 className="font-semibold text-lg mb-1">Email</h3>
                   <p className="text-gray-600 text-sm mb-2">Send us an email anytime</p>
-                  <a href="mailto:support@securepass.com" className="text-blue-600 hover:underline">
-                    support@securepass.com
+                  <a href="" className="text-blue-600 hover:underline">
+                    Send an Email
                   </a>
                 </div>
               </div>
